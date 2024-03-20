@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Lego Sets-Collection",
+    "image": "/lego.png",
+    "description": "A platform for users to store their Cards of Lego-sets Collection",
+    "tags": [ "node", "mongodb", "tailwind", "PosGresSQL"],
+    "source_code": "https://github.com/Harshp258/Assignment-2",
+    "demo": "https://assignment-2-ehpm.onrender.com"
+  }
+]
