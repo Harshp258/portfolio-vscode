@@ -7,5 +7,15 @@
     "tags": [ "node", "mongodb", "tailwind", "PosGresSQL"],
     "source_code": "https://github.com/Harshp258/Assignment-2",
     "demo": "https://assignment-2-ehpm.onrender.com"
+  },
+
+  {
+    "id": 2,
+    "name": "Air-BNB Listings Explorer",
+    "image": "/airbnb.png",
+    "description": "A platform for users to explore new Air-BNB Listings",
+    "tags": [ "node", "mongodb", "NextJs14", "React"],
+    "source_code": "https://github.com/Harshp258/Air-BNB-Listings-Explorer",
+    "demo": "https://listings-as-3.vercel.app/"
   }
 ]
