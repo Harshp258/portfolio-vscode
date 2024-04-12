@@ -17,5 +17,15 @@
     "tags": [ "node", "mongodb", "NextJs14", "React"],
     "source_code": "https://github.com/Harshp258/Air-BNB-Listings-Explorer",
     "demo": "https://listings-as-3.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "Museum Artifact Explorer",
+    "image": "/museum.png",
+    "description": "A platform for users to explore new Art Collection  from the Museums.",
+    "tags": [ "node", "mongodb", "NextJs14", "React"],
+    "source_code": "https://github.com/Harshp258/Museum--Art-Explorer",
+    "demo": "https://museum-art-explorer.vercel.app/"
+
   }
 ]
