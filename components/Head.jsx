@@ -14,7 +14,7 @@ const CustomHead = ({ title }) => {
         property="og:description"
         content="A Software developer building websites and applications."
       />
-      <meta property="og:url" content="https://portfolio-vscode-swart.vercel.app/" />
+      
       
     </Head>
   );
