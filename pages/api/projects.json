@@ -4,7 +4,7 @@
     "name": "Lego Sets-Collection",
     "image": "/lego.png",
     "description": "A platform for users to store their Cards of Lego-sets Collection",
-    "tags": [ "node", "mongodb", "tailwind", "PosGresSQL"],
+    "tags": [ "node", "mongodb", "ExpressJS", "PosGresSQL"],
     "source_code": "https://github.com/Harshp258/Assignment-2",
     "demo": "https://assignment-2-ehpm.onrender.com"
   },
@@ -14,7 +14,7 @@
     "name": "Air-BNB Listings Explorer",
     "image": "/airbnb.png",
     "description": "A platform for users to explore new Air-BNB Listings",
-    "tags": [ "node", "mongodb", "NextJs14", "React"],
+    "tags": [ "node", "REST-API", "NextJs14"],
     "source_code": "https://github.com/Harshp258/Air-BNB-Listings-Explorer",
     "demo": "https://listings-as-3.vercel.app/"
   },
@@ -23,9 +23,20 @@
     "name": "Museum Artifact Explorer",
     "image": "/museum.png",
     "description": "A platform for users to explore new Art Collection  from the Museums.",
-    "tags": [ "node", "mongodb", "NextJs14", "React"],
+    "tags": [ "AdvancedSearch", "mongodb", "NextJs14", "Authentication"],
     "source_code": "https://github.com/Harshp258/Museum--Art-Explorer",
     "demo": "https://museum-art-explorer.vercel.app/"
 
+  },
+  {
+    "id": 4,
+    "name": "</>SenecaCode",
+    "image": "/SSDC.png",
+    "description": "A platform for coders of Seneca College unite",
+    "tags": [ "NextJs14", "mongodb", "NextAuth", "API"],
+    "source_code": "https://github.com/Harshp258/Seneca-Software-Club-master",
+    "demo": "https://seneca-software-club-master.vercel.app/"
+
   }
+  
 ]

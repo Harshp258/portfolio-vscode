@@ -3,74 +3,84 @@ import React from 'react';
 export default function Resume () {
   return (
     <div className="resume">
-      <h2># Harsh Patel</h2>
-      <p>Junior Web Developer | Database Administrator</p>
-      <p>GitHub | hp9321649@gmail.com | +1 (437) 988-2583 | LinkedIn</p>
-      <br />
-      <h3>## OBJECTIVES</h3>
-      <br />
-      <p>
-        In my pursuit as a diligent and inventive Computer Programming student, I am eager to leverage my robust background in software development, data analysis, and project management to excel as a Web Developer. My objective is to enhance technological progress and operational effectiveness within your vibrant setting by delivering meaningful solutions in web development and client support.
-      </p>
-      <br />
-      <br />
-      <h3>## EDUCATION</h3>
-      <br />
-      <p><strong>Computer Programming And Web Development</strong> 2023-2024<br />Seneca Polytechnic, Toronto</p>
-      <ul>
-        <li>CGPA: 3.7/4.0 with 4/4 GPA in 3rd Semester</li>
-        <li>Focused on Software Engineering, Database Management Systems, and Frontend-web Development.</li>
-        <li>Relevant Coursework: Web Development in React/Next.js, Database Management System, Data Structures and Algorithm, Introduction to UNIX/LINUX, Project Management Using Agile Methodology, Software Testing with SDLC</li>
-      </ul>
-      <br />
-      <br />
-      <h3>## PROJECTS</h3>
-      <br />
-      <p><strong>Lego Sets Management Website: Lego Collection</strong></p>
-      <ul>
-        <li>Overview: A sophisticated web-based application designed to manage Lego set collections, demonstrating advanced skills in full-stack development, data management, and user interface design.</li>
-        <li>Technologies: Utilized Node.js and Express.js for constructing the server-side architecture, Sequelize interfaced with PostgreSQL for robust database operations, MongoDB for efficient session management, and Tailwind CSS in conjunction with AJAX for front-end development.</li>
-        <li>Impact: The system optimized the process of collection management, enhancing user experience via effective data manipulation and a refined user interface.</li>
-      </ul>
-    <a href="https://assignment-2-ehpm.onrender.com"  target="_blank">Lego Collection</a>
-    <br />
-    <br />
-      <p><strong>School Banking System Development</strong></p>
-      <ul>
-        <li>Overview: Engineered a Student-Faculty Management System to optimize the handling of student and faculty data.</li>
-        <li>Technologies: Utilized C++ for application logic and Oracle SQL for database interactions, emphasizing secure and efficient data manipulation.</li>
-        <li>Impact: The project underscored skills in secure database integration, complex system development, and efficient data management.</li>
-      </ul>
-    <br />
-    <br />
-      <h3>## SKILLS</h3>
-      <br />
-      <ul>
-        <li>Proficient in Adobe Creative Suite, including InDesign, Illustrator, and Photoshop.</li>
-        <li>Experience with HTML/CSS and familiarity with CMS platforms like Drupal.</li>
-        <li>Strong grasp of UX/UI design principles, typography, and layout.</li>
-        <li>Excellent communication, collaboration, and time management skills.</li>
-        <li>Eagerness to learn and grow in a dynamic team environment.</li>
-      </ul>
-      <br />
-      <br />
-      <h3>## CERTIFICATIONS AND AWARDS</h3>
-      <br />
-      <p><strong>President’s Honor List</strong> Seneca College, 2023<br />Awarded for outstanding academic achievement with a perfect 4/4 CGPA.</p>
-      <br />
-      <br />
-      <h3>## VOLUNTEER EXPERIENCE</h3>
-      <br />
-      <p><strong>VIRTUAL MENTOR FOR REMOTE LEARNING</strong> Seneca College, 2023 – Present</p>
-      <br />
-      <ul>
-        <li>Provided personalized academic support through in-class assistance and problem solving.</li>
-        <li>Facilitated virtual study groups to promote collaborative learning and peer support.</li>
-        <li>Focused on fostering student engagement, motivation, and accountability in remote learning environments.</li>
-        <li>Adapted strategies to address challenges such as technological limitations and communication barriers.</li>
-        <li>Made a meaningful impact on students' academic success and online learning experiences.</li>
-      </ul>
-    </div>
+  <h2>Harsh Patel</h2>
+  <p>Software Developer | Web Developer</p>
+  <p>
+    <a href="mailto:harsh.patel8928@gmail.com">harsh.patel8928@gmail.com</a> | 
+    <a href="https://linkedin.com/in/harsh-patel/">LinkedIn</a> | 
+    <a href="https://patel-harsh.vercel.app" target="_blank">Portfolio</a>
+  </p>
+  <br />
+
+  <h3>Education</h3>
+  <p><strong>Computer Programming</strong> (January 2023 – August 2024)<br />Seneca Polytechnic, Toronto, ON</p>
+  <ul>
+    <li>CGPA: 3.8/4.0 with 4/4 GPA in 3rd Semester [President Honor List]</li>
+  </ul>
+  <br />
+
+  <h3>Technical Skills</h3>
+  <ul>
+    <li>Programming Languages: JavaScript, C, C++, Python, HTML</li>
+    <li>Web & Cloud Technologies: NodeJS, Express.js, React, Next.js, RestAPI, Tailwind CSS, Bootstrap, Git, GitHub</li>
+    <li>Database Management: Oracle, SQL Database, PostgreSQL, ETL, MongoDB, NextAuth</li>
+    <li>Project Management: Jira Software, Agile methodologies (Scrum/Kanban), Troubleshooting</li>
+    <li>Applications: Windows, Unix/Linux, VS Code, SQL Server Management Studio, Visual Paradigm, Discord</li>
+  </ul>
+  <br />
+
+  <h3>Experience</h3>
+  <p><strong>Supervisor / Team Leader</strong> (April 2024 - Present)<br />Subway at SickKids Hospital, Part-time, Toronto, ON</p>
+  <ul>
+    <li>Led a team of 7, serving 2,450 customers weekly with a 98% satisfaction rate; revamped team efficiency by 20%.</li>
+    <li>Reduced wait times by 25% during peak hours and resolved 15-20 weekly complaints with empathy.</li>
+    <li>Managed inventory with 99% accuracy, optimizing supply orders and reducing waste by 10%.</li>
+    <li>Fostered a positive work culture, enhancing team communication and customer loyalty.</li>
+  </ul>
+  <br />
+
+  <p><strong>Junior Web Developer</strong> (2021 - 2022)<br />Mikkaso Corporation, Contract, India</p>
+  <ul>
+    <li>Composed customer-focused interfaces utilizing HTML, CSS3, and JavaScript frameworks, boosting user satisfaction metrics by 30% through intuitive design and seamless navigation experiences.</li>
+    <li>Created mock designs and wireframes for 3 new products landing page, complete with documentation.</li>
+    <li>Improved data handling efficiency by 15% through React components.</li>
+    <li>Conducted unit testing and debugging, reducing bugs by 20% within the SDLC.</li>
+    <li>Designed web applications with Next.js, enhancing user interface convenience by 25%.</li>
+  </ul>
+  <br />
+
+  <h3>Projects</h3>
+  <p><strong>SenecaCode</strong> (Tech Stack: React, Next.js, Node.js, Express.js, MongoDB, NextAuth)</p>
+  <ul>
+    <li>Generated a full-stack web application for 40-50 developers, enhancing collaboration.</li>
+    <li>Integrated NextAuth for secure authentication, reducing page load times by 30%.</li>
+    <li>Achieved overall performance boost by 25%, supporting up to 50 concurrent users.</li>
+  </ul>
+  <br />
+
+  <p><strong>Museum Art Explorer</strong> (Tech Stack: React, Next.js, Node.js, MongoDB, Rest API, Git)</p>
+  <ul>
+    <li>Created a MERN stack application connecting users to global museum collections.</li>
+    <li>Implemented an Advanced Search feature, boosting performance by 20%.</li>
+    <li>Increased user engagement by 15% through efficient data fetching and state management.</li>
+  </ul>
+  <br />
+
+  <p><strong>LegoSets Collection</strong> (Tech Stack: Node.js, Express.js, MongoDB, PostgreSQL)</p>
+  <ul>
+    <li>Developed a full-stack application for managing Lego sets with CRUD operations.</li>
+    <li>Enhanced user experience with Tailwind CSS and AJAX, reducing load times by 5%.</li>
+    <li>Improved inventory management efficiency by 25% for users managing up to 1,000 sets.</li>
+  </ul>
+  <br />
+
+  <p><strong>School Management System</strong> (Tech Stack: C++, Oracle SQL)</p>
+  <ul>
+    <li>Led a team to create a Student-Faculty Management System for 100 users.</li>
+    <li>Boosted query efficiency by 30%, enhancing administrative task performance.</li>
+    <li>Implemented security measures to ensure data integrity and confidentiality.</li>
+  </ul>
+</div>
   );
 };
 

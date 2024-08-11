@@ -4,8 +4,8 @@ const contactItems = [
   
   {
     social: 'email',
-    link: 'hp9321649@gmail.com',
-    href: 'mailto:hp9321649@gmail.com',
+    link: 'hasrh.patel8928@gmail.com',
+    href: 'mailto:hasrh.patel8928@gmail.com',
   },
   {
     social: 'github',
@@ -15,7 +15,7 @@ const contactItems = [
   {
     social: 'linkedin',
     link: 'Harsh  Patel',
-    href: 'https://www.linkedin.com/in/harsh-patel-48a432260/',
+    href: 'https://www.linkedin.com/in/HarshPatel258/',
   },
 
  
